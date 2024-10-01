@@ -4,7 +4,7 @@
 // Include libraries:
 
 #include <iostream>
-#include "../../TinyGPS++.h"
+#include "../TinyGPSPlus.h"
 
 using namespace std;
 
