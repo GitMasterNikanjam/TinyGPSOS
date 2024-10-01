@@ -1,4 +1,4 @@
-// for compile and build: g++ -o BasicExample BasicExample.cpp ../../TinyGPS++.cpp -Wall -Wextra -std=c++17
+// for compile and build: g++ -o ex1 ex1.cpp ../../TinyGPSPlus.cpp -Wall -Wextra -std=c++17
 // For run: sudo ./BasicExample
 // #######################################################
 // Include libraries:
